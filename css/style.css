@@ -34,3 +34,14 @@ li {
 .site-title a {
     display: block;
 }
+
+.topphoto {
+    margin-bottom: 80px;
+}
+
+.topphoto img {
+    width: 100%;
+    max-width: 1920px;
+    height: 420px;
+    object-fit: cover;
+}
