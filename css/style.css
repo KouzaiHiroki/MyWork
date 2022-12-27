@@ -63,7 +63,7 @@ li {
     opacity: 0.7;
 }
 
-.topmenu li img.icon {
+.topmenu ul li img.icon {
     width: 20px;
 }
 
