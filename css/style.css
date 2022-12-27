@@ -63,7 +63,7 @@ header li a:hover  {
     opacity: 0.7;
 }
 
-header img.icon {
+header  img.icon {
     width: 20px;
 }
 
@@ -77,3 +77,4 @@ header img.icon {
     height: 420px;
     object-fit: cover;
 }
+ 
