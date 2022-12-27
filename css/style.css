@@ -2,4 +2,35 @@
 
 html {
     font-size: 100%;
-  }
+}
+
+body {
+    color: #24292e;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+li {
+    list-style: none;
+}
+
+.wrapper {
+    max-width: 960px;
+    margin: 0 auto 130px auto;
+    font-size: 0.9rem;
+    padding: 0 4%;
+}
+
+.sitetitle {
+    line-height: 1px;
+}
+
+.site-title a {
+    display: block;
+}
