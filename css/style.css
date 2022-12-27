@@ -77,3 +77,20 @@ li {
     height: 420px;
     object-fit: cover;
 }
+
+.sec-title {
+    font-size: 1.5rem;
+    text-align: center;
+    margin-bottom: 65px;
+}
+#about ul {
+    margin-bottom: 30px;
+}
+
+#about ul li:first-child {
+    margin-bottom: 30px;
+}
+
+#about p {
+    text-align:justify;
+}
