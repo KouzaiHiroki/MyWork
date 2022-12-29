@@ -28,7 +28,7 @@ li {
 }
 
 .sitetitle {
-    line-height: 1px;
+    line-height: 0;
 }
 
 .sitetitle a {
