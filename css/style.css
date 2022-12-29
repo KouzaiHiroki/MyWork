@@ -106,3 +106,22 @@ header li img.icon {
     width: 31%;
     margin-bottom: 23px;
 }
+
+#news dl {
+    display: flex;
+    flex-wrap: wrap;
+    border-top: solid 1px #c8c8c8;
+    margin-bottom: 20px;
+}
+
+#news dt {
+    width: 20%;
+    border-bottom: solid 1px #c8c8c8;
+    padding: 15px;
+}
+
+#news dd {
+    width: 80%;
+    border-bottom: solid 1px #c8c8c8;
+    padding: 15px;
+}
